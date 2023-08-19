@@ -1,0 +1,57 @@
+.mostrar-dia{
+  
+  background-color: #0000ff;
+  text-align: center;
+  margin-top: 20%;
+  margin-left: 25%;
+  border: red solid 10px;
+  padding: 50px 0;
+  width: 50%;
+
+  
+   
+}
+
+p{
+
+    font-size: 15px;
+    text-transform: uppercase;
+    color: #fff;
+
+}
+
+
+  .mostrar-dia input{
+
+
+   height: 20px;
+   border: green solid 5px;
+   font-size: 10px;
+
+
+}
+
+.botao-ativar{
+
+   padding: 6px;
+   color: #5f10f2;
+   cursor: pointer;
+
+}
+
+.botao-ativar:hover{
+
+  color:red;
+
+
+}
+
+ #res{
+
+   color:#fff;
+   font-size: 50px;
+   
+
+
+
+ }
